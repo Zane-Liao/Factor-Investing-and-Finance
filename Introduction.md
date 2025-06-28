@@ -1,3 +1,0 @@
-- This folder is intended to record some of my notes and summaries on the book Factor Investing
-- In some scenarios, I will combine code and practical examples to enhance understanding
-- For more information, please refer to Wiki or Paper, Book, etc.
